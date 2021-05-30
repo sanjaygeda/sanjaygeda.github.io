@@ -20,7 +20,7 @@ You will get some idea about me and my thoughts:
   <!--<a href="https://stackoverflow.com/users/3384821/ashish-karn"> <img src="https://github.com/asharn/asharn/blob/master/badges/stackoverflow.svg" alt="Stackoverflow"/></a>-->
   <!--<a href="https://stackoverflow.com/users/16074558/sanjay-kumar"><img src="https://stackexchange.com/users/flair/4125582.png" width="158" height="20" alt="profile for Sanjay Kumar on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Sanjay Kumar on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>-->
 
-</p></br></br>
+</p>
 
 
 <p  align="center">
