@@ -20,8 +20,8 @@ You will get some idea about me and my thoughts:
 
 
 <p  align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=sanjaygeda&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sanjaygeda.sanjaygeda" alt="visitor badge"/></br>
+  <img src="https://github-readme-stats.vercel.app/api/?username=sanjaygeda&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sanjaygeda.sanjaygeda" alt="visitor badge"/>
 </p>
 
 ### Thank You
