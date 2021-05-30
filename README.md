@@ -9,7 +9,7 @@ You will get some idea about me and my thoughts:
 - 🤔 I’m looking for help as a suggestion with the name of different books that I need to read.
 - 💬 Ask me about technical stuff and career suggestion.
 - 📫 How to reach me: email-sanjaygeda@rediffmail.com, 
-- <a href="https://www.linkedin.com/in/sanjay-geda/"> Visit My Linkedin Profile ! </a>
+- <a href="https://www.linkedin.com/in/sanjay-geda/">  </a>
 - 😄 Pronouns: Check out audio near to my name of my linkedIn profile.
 - ⚡ Fun fact: Does ant see human as God? Is millions of other small bodies co-exist inside our earth? 
 
