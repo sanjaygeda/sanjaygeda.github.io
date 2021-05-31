@@ -4,7 +4,7 @@
 You will get some idea about me and my thoughts:
 
 - 🔭 I’m currently working on VB.net 2012, sql server 2012.
-- 🌱 I’m currently learning DBA and plsql and sql developer.
+- 🌱 I’m currently Worked as DBA and pl/sql,sql developer.
 - 👯 I’m looking to collaborate on an open sourse project.
 - 🤔 I’m looking for help as a suggestion with the name of different books that I need to read.
 - 💬 Ask me about technical stuff and career suggestion.
