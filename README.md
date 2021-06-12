@@ -1,4 +1,4 @@
-### Welcome, You are visiting Sanjay kumar profile.
+### Welcome, You are visiting Sanjay geda profile.
 
 
 You will get some idea about me and my thoughts:
